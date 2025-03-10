@@ -29,9 +29,8 @@ const clearScore = document.querySelector("#restart");
 let count = 0;
 
 button.addEventListener("click", () => {
-    console.log("Button clicked!")
+    console.log("Button clicked!");
     count++;
-    // console log not working --> why? console.log(count);
     clickCount.textContent = count;
 });
 
