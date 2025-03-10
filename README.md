@@ -20,4 +20,4 @@ Add the basic HTML structure, including:
 - Add a leaderboard displaying the top 10 highest scores.
 
 ## v1.4 
-- Allow players to enter their name and store it in the leaderboard.
+- Allow players to enter their name and store it in the leaderboard. 
