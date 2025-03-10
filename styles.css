@@ -1,0 +1,55 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: #f0f4f8;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Header Text */
+.texts h1 {
+    color: #1e88e5;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.texts p {
+    font-size: 18px;
+    color: #666;
+}
+
+/* Button Styling */
+button {
+    background-color: #1e88e5;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #1565c0;
+}
+
+/* Score Display */
+.button-one p {
+    font-size: 22px;
+    font-weight: bold;
+    color: #333;
+    background-color: #e3eaf2;
+    display: inline-block;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+/* Container Styling */
+.button-one, .button-two {
+    margin-top: 20px;
+}
